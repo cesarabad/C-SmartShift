@@ -1,0 +1,12 @@
+[submodule "C-SmartShiftUI"]
+	path = C-SmartShiftUI
+	url = https://github.com/cesarabad/C-SmartShiftUI
+[submodule "DynamicDataManager"]
+	path = DynamicDataManager
+	url = https://github.com/cesarabad/DynamicDataManager
+[submodule "GearShiftControl"]
+	path = GearShiftControl
+	url = https://github.com/cesarabad/GearShiftControl
+[submodule "MicroController"]
+	path = MicroController
+	url = https://github.com/cesarabad/MicroController
