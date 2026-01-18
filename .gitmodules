@@ -10,3 +10,6 @@
 [submodule "MicroController"]
 	path = MicroController
 	url = https://github.com/cesarabad/MicroController
+[submodule "DeviceDomain"]
+	path = DeviceDomain
+	url = https://github.com/cesarabad/DeviceDomain
