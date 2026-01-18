@@ -1,0 +1,111 @@
+############################
+# Visual Studio / MSVC
+############################
+
+# User-specific files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Visual Studio cache/options
+.vscode/
+.idea/
+
+############################
+# Build results
+############################
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# CMake
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.cmake
+
+############################
+# MSVC intermediate files
+############################
+
+*.obj
+*.idb
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.manifest
+*.res
+*.tlog
+*.lastbuildstate
+*.pch
+
+############################
+# Logs & temp
+############################
+
+*.log
+*.tmp
+*.temp
+
+############################
+# Crash dumps
+############################
+
+*.dmp
+
+############################
+# Package / export artifacts
+############################
+
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+############################
+# Test / coverage
+############################
+
+*.coverage
+*.coveragexml
+*.gcda
+*.gcno
+
+############################
+# OS files
+############################
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS (por si alguien compila fuera)
+.DS_Store
+
+############################
+# Optional: Ignore ALL build folders recursively
+# (muy útil en bundles con muchos módulos)
+############################
+
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+**/build/
+**/out/
